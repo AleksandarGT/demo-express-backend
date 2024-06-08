@@ -1,0 +1,23 @@
+{
+  "name": "demo-express-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandarGT/demo-express-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandarGT/demo-express-backend/issues"
+  },
+  "homepage": "https://github.com/AleksandarGT/demo-express-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
